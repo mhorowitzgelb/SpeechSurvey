@@ -5,3 +5,4 @@ public void printCount (int n) {
 }
 
 public void reverser (int[] x){
+	int[] results = new int[x.length];
