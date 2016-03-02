@@ -3,3 +3,5 @@ public void printCount (int n) {
 		System.out.println(i);
 	}
 }
+
+public void reverser (int[] x)
