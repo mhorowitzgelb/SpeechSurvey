@@ -7,3 +7,4 @@ public void printCount (int n) {
 public void reverser (int[] x){
 	int[] results = new int[x.length];
 	for(int i = 0; i < x.length; i ++){
+		results[x.length - 1 -i] = x[i];
