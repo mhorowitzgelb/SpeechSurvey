@@ -1,3 +1,3 @@
 public int[] reverse (int[] x){
-	int[] why = new int[x.length];
+	int[] result = new int[x.length];
 }
