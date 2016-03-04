@@ -3,4 +3,5 @@ public int[] reverse (int[] x){
 	for(int i; i < result.length; i ++){
 			result[result.length -1 -i] = x[i];
 	}
+	return result;
 }
