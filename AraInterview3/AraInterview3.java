@@ -1,1 +1,1 @@
-public int[] reverse (int[] X)
+public int[] reverse (int[] x)
