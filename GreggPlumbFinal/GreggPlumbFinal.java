@@ -4,4 +4,5 @@ public void switchArray(int a){
 	for(int II = 0; II < N; II ++){
 		be[II] = a[N - II - 1];
 	}
+	return be;
 }
